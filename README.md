@@ -27,6 +27,7 @@ The python skills I utilized include:
 
 
 **Future Ideas**
+
   I hope to implement a ducking feature, where the sprite can duck under the fly. I attempted to do this already, but it caused a glitch where the sprite went below the ground floor that I set. In the future I hope to solve this issue.
 
   Currently, I am working on a Squid Game inspired Glass Bridges game, using pygame and python again. This game will a 2x20 row of identical squares, with one square in the row being safe to stand on and the other not being safe to stand on. The user will have 7 attempts to correctly jump their way across the bridge without breaking the glass underneath it.
