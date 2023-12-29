@@ -34,14 +34,13 @@ The python skills I utilized include:
 
 
 **Credits**
-  As this is my first personal project and first time learning pygame, I followed the tutorial linked below to create this project and also added my own touches to the game
-  https://www.youtube.com/watch?v=AY9MnQ4x3zk
+  As this is my first personal project and first time learning pygame, I followed the tutorial linked below to create this project and also added my own touches to the game: https://www.youtube.com/watch?v=AY9MnQ4x3zk
 Artwork:
-https://opengameart.org/content/platformer-art-pixel-edition         Copyright: Kenney.nl
+https://opengameart.org/content/platformer-art-pixel-edition
 Audio:
 https://opengameart.org/content/5-chiptunes-action
 Death Audio:
-https://opengameart.org/content/death-bell                           Copyright 2008-2010 Ulrich Metzner
+https://opengameart.org/content/death-bell
 
 
 
