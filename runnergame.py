@@ -128,8 +128,6 @@ class Obstacle(pygame.sprite.Sprite):
         """Removes obstacle object from obstacle_group"""
         if self.rect.x <= -100:
             self.kill()
-        
-        
 
 def display_score()->int:
     """Calculates and displays the current score on screen and returns the current score"""
@@ -139,7 +137,6 @@ def display_score()->int:
     screen.blit(score_surface, score_rect)
     return current_time
     
-
 def collision_sprite()->bool:
     """Removes all obstacles from obstacle_group and plays a death bell sound everytime a collision between the player and obstacle is detected.
     Returns False if collision is detected and True if not, in order to determine the status of game_active
@@ -221,7 +218,6 @@ while True:
         
         play_msg = test_font.render("Press Space to run", False, "Blue")
         play_msg_rect = play_msg.get_rect(center = (400, 330))    
-        
         
         score_msg = test_font.render(f'Your Score: {score}', False, "Blue")
         score_msg_rect = score_msg.get_rect(center = (400,330))
